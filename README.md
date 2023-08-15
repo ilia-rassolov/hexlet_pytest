@@ -1,1 +1,2 @@
-[![Github Actions Demo](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Github Actions Demo]
+(https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
